@@ -1,0 +1,26 @@
+.container {
+    margin: auto;
+    width: 780px;
+    height: 450px;
+    border: solid black;
+
+}
+
+.game-name {
+     margin-top: 10px;
+    
+}
+
+h1 {
+font-size: 40px;
+
+}
+
+.guess-letter {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
